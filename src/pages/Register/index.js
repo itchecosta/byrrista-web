@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { Link, useHistory } from 'react-router-dom';
 import { FiArrowLeft, FiAlertCircle } from 'react-icons/fi';
 import InputMask from 'react-input-mask';
-import InputTags from '../../components/InputTags/index';
+//import InputTags from '../../components/InputTags/index';
 
 import api from '../../services/api';
 
